@@ -4,3 +4,4 @@ This is a WebExtension that gets rid of the Twitter "Moments" tab on twitter.com
 
 Insanely easy to write this. I did it while waiting for a build to finish. <3 WebExtensions.
 
+[Hosted on addons.mozilla.org.](https://addons.mozilla.org/en-US/firefox/addon/no-twitter-moments/)
